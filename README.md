@@ -1,13 +1,12 @@
 [![Cover-Page-Naval-2.png](https://i.postimg.cc/5tphn9Wy/Cover-Page-Naval-2.png)](https://postimg.cc/yJgpNHdC)
-[![Sin-t-tulo-1.png](https://i.postimg.cc/T1hQfGsk/Sin-t-tulo-1.png)](https://postimg.cc/BP92CW4D)
-
-##  :tw-270f: DESCRIPTION
+[![Sin-t-tulo-1.png](https://i.postimg.cc/wvRSHSGQ/Sin-t-tulo-1.png)](https://postimg.cc/9RVxYNVD)
+## DESCRIPTION
 _________________________
 The objective of this project is the development of a naval development of a naval battle game in the C++. The program will will allow the user to interact through the console, using the classic mechanics and dynamics of naval combat. Enemy ships will be randomly placed on the board and the player's player's objective will be to eliminate them continuous attacks until all enemy ships are sunk. enemy ships.
 
-##:tw-26a0: USER MANUAL 
+## USER MANUAL 
 
-#####REQUIREMENTS
+##### REQUIREMENTS
 - A C++ compiler is required to compile and run the code.
 and execute the code.
 - A terminal is required to interact with the
@@ -23,12 +22,14 @@ _______
 | **4. End Game**     | - Select option "3" in main menu to end the game with a success message. |
 | **5. Special Cheats**| - "123" cheat reveals hidden board with ship locations.<br>- "321" cheat automatically wins the game. |
 
-##:tw-1f4f9: VIDEO
-
-https://github.com/BJhisel/Battleship-Game-in-C-/assets/130872784/3f09474b-d9f1-44b6-8022-86b15d25f607
+## VIDEO
 
 
-##:tw-1f501: INPUT AND OUTPUT DESIGN
+https://github.com/BJhisel/Battleship-Game-in-C-/assets/130872784/b98165bf-0c72-4246-9cc2-0554a3c2dbcd
+
+
+
+## INPUT AND OUTPUT DESIGN
 ### Input:
 
 | Data                                    | Description |
@@ -53,9 +54,9 @@ https://github.com/BJhisel/Battleship-Game-in-C-/assets/130872784/3f09474b-d9f1-
 
 
 
-I have to tell you that this project has been done in a duo, I did most of part but i have to give the statistics credits to my laizy partner.  :tw-1f63f:
+I have to tell you that this project has been done in a duo, I did most of part but i have to give the statistics credits to my laizy partner. 
 And you have all the documentation in the ZIP! Please, take a look.
-#####Thanks for watching! 
+##### Thanks for watching! 
 
 
 
